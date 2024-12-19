@@ -1,6 +1,0 @@
-.logo {
-    border-radius: 50%; /* Makes the image circular */
-    width: 150px;       /* Sets the width */
-    height: 150px;      /* Sets the height */
-    object-fit: cover;  /* Ensures the image fits properly in the circle */
-}
