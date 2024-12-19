@@ -3,6 +3,10 @@ logo: /assets/img/headshot_circle.jpg
 description: text below image
 show_downloads: true
 theme: Jekyll-theme-minimal
+
+plugins:
+  - jekyll-assets
+
 # Social media links
 social:
   - name: "GitHub"
