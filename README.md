@@ -1,5 +1,5 @@
 # PrakashDura.github.io
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
