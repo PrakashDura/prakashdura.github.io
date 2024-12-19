@@ -1,5 +1,39 @@
-title: Prakash Dura
-logo: /assets/img/headshot_circle.jpg
+#title: Prakash Dura
+#logo: /assets/img/headshot_circle.jpg
 #description: text below image
-show_downloads: true
-theme: Jekyll-theme-minimal
+#show_downloads: true
+#theme: Jekyll-theme-minimal
+title: Prakash Dura
+description: "A short description about you."
+baseurl: "" # Base URL for the site, leave empty for root
+url: "https://yourusername.github.io" # Your GitHub Pages URL
+
+author:
+  name: Prakash Dura
+  email: "prakashdura20@gmail.com"
+  avatar: "/assets/images/avatar.jpg" # Path to your profile picture
+  bio: "Data Scientist and Software Developer passionate about turning data into actionable insights."
+
+theme: "minimal-mistakes-jekyll"
+
+# Social media links
+social:
+  - name: "GitHub"
+    url: "https://github.com/PrakashDura"
+    icon: "fab fa-github"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/prakashdura/"
+    icon: "fab fa-linkedin"
+
+# Enable plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
