@@ -2,7 +2,6 @@ title: Prakash Dura
 logo: 
   path: /assets/img/headshot_circle.jpg
   style: "border-radius: 50%; width: 150px; height: 150px; object-fit: cover;"
-/assets/img/headshot_circle.jpg
 description: text below image
 show_downloads: true
 theme: Jekyll-theme-minimal
