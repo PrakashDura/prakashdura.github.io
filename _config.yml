@@ -1,5 +1,5 @@
 title: Prakash Dura
 logo: /assets/img/headshot_circle.jpg
-description: text below image
+description: "<img src='/assets/img/headshot_circle.jpg' alt='Prakash Dura' style='border-radius: 50%; width: 150px; height: 150px; object-fit: cover;'> text below image
 show_downloads: true
 theme: Jekyll-theme-minimal
