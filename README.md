@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate data science student pursuing my
 
 ## 🚀 **Projects**
 
-### **NYC Bus Breakdown and Delays Analysis | Excel Project**                                                                                                        
+### **NYC Bus Breakdown and Delays Analysis | Excel Project**  -(January 2024- February 2025)                                                                                                     
 -	Analyzed and cleaned a dataset downloaded from the NYC Open Data Portal with 1.8 million rows on NYC bus breakdowns and delays.
 -	Structured data by handling missing values, duplicates, and inconsistencies to improve accuracy.
 -	Identified common delay causes and trends based on the day of the week, bus companies, and borough.
@@ -67,7 +67,10 @@ Welcome to my GitHub profile! I am a passionate data science student pursuing my
 - **GitHub:** [github.com/PrakashDura](https://github.com/PrakashDura)  
 
 ## 📘 **Certifications**
-- *List of certifications can be added here if applicable.*
+- Excel For Data Analytics
+- Pandas for Data Analytics
+- MySQL for Data Analytics
+- Tableau for Data Visualization
 
 ## 🎓 **About Me**
 As a data science enthusiast, I am always looking for new opportunities to learn and grow. I am particularly interested in machine learning, data analysis, and software development. My ultimate goal is to leverage my technical and analytical skills to create meaningful impact through data-driven solutions.
