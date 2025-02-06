@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate data science student pursuing my
 
 ## 🚀 **Projects**
 
-### **NYC Bus Breakdown and Delays Analysis | Excel Project**                                                                                                           January 2024- February 2025
+### **NYC Bus Breakdown and Delays Analysis | Excel Project**                                                                                                        
 •	Analyzed and cleaned a dataset downloaded from the NYC Open Data Portal with 1.8 million rows on NYC bus breakdowns and delays.
 •	Structured data by handling missing values, duplicates, and inconsistencies to improve accuracy.
 •	Identified common delay causes and trends based on the day of the week, bus companies, and borough.
