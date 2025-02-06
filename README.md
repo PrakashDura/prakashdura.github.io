@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I am a passionate data science student pursuing my
 ## 🚀 **Projects**
 
 ### **NYC Bus Breakdown and Delays Analysis | Excel Project**                                                                                                        
-•	Analyzed and cleaned a dataset downloaded from the NYC Open Data Portal with 1.8 million rows on NYC bus breakdowns and delays.
-•	Structured data by handling missing values, duplicates, and inconsistencies to improve accuracy.
-•	Identified common delay causes and trends based on the day of the week, bus companies, and borough.
-•	Developed dashboards and reports using Excel (PivotTables, VLOOKUP) for trend visualization.
-•	Derived actionable insights to enhance service efficiency and reduce bus delays.
+-	Analyzed and cleaned a dataset downloaded from the NYC Open Data Portal with 1.8 million rows on NYC bus breakdowns and delays.
+-	Structured data by handling missing values, duplicates, and inconsistencies to improve accuracy.
+-	Identified common delay causes and trends based on the day of the week, bus companies, and borough.
+-	Developed dashboards and reports using Excel (PivotTables, VLOOKUP) for trend visualization.
+-		Derived actionable insights to enhance service efficiency and reduce bus delays.
 
 ### **Rice Image Classification using CNN**
 - Built and optimized a Convolutional Neural Network (CNN) using TensorFlow/Keras.
