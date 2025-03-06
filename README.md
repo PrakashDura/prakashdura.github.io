@@ -71,6 +71,7 @@ Welcome to my GitHub profile! I am a passionate data science student pursuing my
 - Pandas for Data Analytics
 - MySQL for Data Analytics
 - Tableau for Data Visualization
+- Microsoft Power BI Desktop
 
 ## 🎓 **About Me**
 As a data science enthusiast, I am always looking for new opportunities to learn and grow. I am particularly interested in machine learning, data analysis, and software development. My ultimate goal is to leverage my technical and analytical skills to create meaningful impact through data-driven solutions.
