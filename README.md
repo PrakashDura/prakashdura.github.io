@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a passionate data science student pursuing my Master's in Computer Science with a concentration in Data Science at Tennessee State University (TSU). My mission is to leverage data to drive insights, develop intelligent systems, and create impactful solutions.
 
 ## 📚 **Education**
-- **Master of Science in Computer Science (Data Science Concentration)** - Tennessee State University (2022 - 2024)  
+- **Master of Science in Computer Science (Data Science Concentration)** - Tennessee State University (2022 - 2025)  
   GPA: 4.0  
   Relevant Coursework: Intro to Data Science, Machine Learning, Hybrid and Relational Database, Advanced Algorithms and Data Analysis, Software Engineering, Data Visualization
   
