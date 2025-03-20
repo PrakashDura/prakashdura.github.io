@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakash Dura
 
-Welcome to my GitHub profile! I am a passionate **Data Science** enthusiast pursuing my **Master’s in Computer Science** with a concentration in **Data Science** at Tennessee State University (**TSU**). My goal is to leverage data to drive insights, develop intelligent systems, and create impactful solutions through **machine learning, analytics, and data visualization**.
+Welcome to my PORTFOLIO! I am a passionate **Data Science** enthusiast pursuing my **Master’s in Computer Science** with a concentration in **Data Science** at Tennessee State University (**TSU**). My goal is to leverage data to drive insights, develop intelligent systems, and create impactful solutions through **machine learning, analytics, and data visualization**.
 
 ---
 
