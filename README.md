@@ -1,77 +1,97 @@
-# Hi, I'm Prakash Dura
+# 👋 Hi, I'm Prakash Dura
 
-Welcome to my GitHub profile! I am a passionate data science student pursuing my Master's in Computer Science with a concentration in Data Science at Tennessee State University (TSU). My mission is to leverage data to drive insights, develop intelligent systems, and create impactful solutions.
+Welcome to my GitHub profile! I am a passionate **Data Science** enthusiast pursuing my **Master’s in Computer Science** with a concentration in **Data Science** at Tennessee State University (**TSU**). My goal is to leverage data to drive insights, develop intelligent systems, and create impactful solutions through **machine learning, analytics, and data visualization**.
+
+---
 
 ## 📚 **Education**
-- **Master of Science in Computer Science (Data Science Concentration)** - Tennessee State University (2022 - 2025)  
-  GPA: 4.0  
-  Relevant Coursework: Intro to Data Science, Machine Learning, Hybrid and Relational Database, Advanced Algorithms and Data Analysis, Software Engineering, Data Visualization
-  
-- **Bachelor of Computer Science and Information Technology (CSIT)** - Asian School of Management and Technology, Nepal (2016 - 2021)  
-  GPA: 3.5/4.0  
+🎓 **Master of Science in Computer Science (Data Science Concentration)**  
+*Tennessee State University (2022 - 2025)*  
+📌 **GPA:** 4.0  
+📌 **Relevant Coursework:**  
+- Machine Learning  
+- Hybrid & Relational Databases  
+- Data Visualization  
+- Software Engineering  
+- Advanced Algorithms & Data Analysis  
+
+🎓 **Bachelor of Computer Science and Information Technology (CSIT)**  
+*Asian School of Management and Technology, Nepal (2016 - 2021)*  
+📌 **GPA:** 3.5/4.0  
+
+---
 
 ## 💻 **Technical Skills**
-- **Languages:** Python, SQL, Java  
-- **Data Visualization:** Excel, Microsoft Power BI, Jupyter Notebook, Exploratory Data Analysis (EDA)  
-- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn, SQLAlchemy, Scikit-Learn, Apache, TensorFlow  
+- **Languages:** Python, SQL, Java, R  
+- **Data Visualization:** Tableau, Power BI, Excel, Jupyter Notebook, Exploratory Data Analysis (EDA)  
+- **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn, SQLAlchemy, Scikit-Learn, TensorFlow  
 - **Database:** MySQL  
-- **Soft Skills:** Verbal and written communication, presentation, problem-solving, cross-team collaboration  
+- **Soft Skills:** Problem-solving, Communication, Presentation, Cross-team Collaboration  
+
+---
 
 ## 🚀 **Projects**
+### 📊 **1. US Household Income Analysis | SQL Project**  
+📌 **[GitHub Repository](https://github.com/PrakashDura/US_Household_Income_Project)**  
+- Analyzed **32,000 US household income records**.  
+- Cleaned and standardized **state names, abbreviations, and duplicates**.  
+- Derived insights on **income distribution, GDP correlation, and regional disparities**.  
 
-### **NYC Bus Breakdown and Delays Analysis | Excel Project**  (January 2024- February 2025)                                                                                                     
--	Analyzed and cleaned a dataset downloaded from the NYC Open Data Portal with 1.8 million rows on NYC bus breakdowns and delays.
--	Structured data by handling missing values, duplicates, and inconsistencies to improve accuracy.
--	Identified common delay causes and trends based on the day of the week, bus companies, and borough.
--	Developed dashboards and reports using Excel (PivotTables, VLOOKUP) for trend visualization.
--	Derived actionable insights to enhance service efficiency and reduce bus delays.
+### 📉 **2. NYC Bus Breakdown & Delays Analysis | Excel Project**  
+- Processed **1.8 million rows** of NYC bus breakdown data.  
+- Identified common **delay causes, trends, and service inefficiencies**.  
+- Built **interactive Excel dashboards** using PivotTables & VLOOKUP.  
 
-### **Rice Image Classification using CNN**   (April 2024  -  May 2024)
-- Built and optimized a Convolutional Neural Network (CNN) using TensorFlow/Keras.
-- Utilized a pre-trained model, analyzed its source code, and evaluated its performance.
-- Improved the model by modifying the optimizer, batch size, and learning rate to achieve better accuracy.
-- Compared the results of the modified model with the original model to analyze performance changes.
+### 🏆 **3. Call Center KPI Dashboard | Tableau Project**  
+📌 **[Live Tableau Dashboard](https://public.tableau.com/app/profile/prakash.dura4844/viz/CallCenterDataProject_17401664849110/Dashboard1)**  
+- Designed **a KPI dashboard to track agent performance & call center efficiency**.  
+- Key metrics: **Resolution Rate, Average Call Duration, Speed of Answer, Satisfaction Score**.  
+- **Technologies:** Tableau, SQL, Excel.  
+![Call Center Dashboard](Final%20Dashboard.JPG)  
 
-### **World Happiness Report Data Analysis**   (May 2023  -  June 2023)
-- Analyzed global happiness scores from 2015-2019 using Python and Jupyter Notebook.
-- Preprocessed data by cleaning missing values and outliers (using Z-scores) and reduced dimensionality using PCA.
-- Aggregated and visualized the data using Pandas, Matplotlib, and Seaborn.
+### 🌎 **4. World Happiness Report Data Analysis | Python**  
+📌 **[GitHub Repository](https://github.com/PrakashDura/Data-Visualization-Projects/blob/main/World%20Happiness%20Report.ipynb)**  
+- Analyzed **happiness scores (2015-2019)** using **Python & Jupyter Notebook**.  
+- Applied **PCA for dimensionality reduction (95.73% variance retention)**.  
+- Visualized **GDP vs. Happiness Correlation** and **Happiness Scores by Country**.  
 
-### **Student Management System**         (April 2023  -  May 2023)
-- Built a Student Management System using MySQL, SQLAlchemy, and the SQLAlchemy ORM.
-- Designed a user-friendly Tkinter interface for easy data entry and management.
-- Implemented input validation to ensure robust data integrity and security.
+### 📷 **5. Rice Image Classification using CNN | Deep Learning**  
+- Built a **Convolutional Neural Network (CNN) model** using **TensorFlow/Keras**.  
+- Improved accuracy by **tuning hyperparameters** (optimizer, batch size, learning rate).  
+- Compared **pre-trained vs. custom CNN models** on rice grain images.  
 
-### **Movie Recommendation System**
-- Developed a content-based recommendation system using K-Nearest Neighbors (KNN).
-- Deployed the system using Django (Python) to build a full-stack application.
-- Utilized REST APIs for real-time content retrieval and movie suggestions.
+---
 
 ## 💼 **Work Experience**
-### **Sales Manager**  
-**Red Spirits and Wine** - Nashville, TN (Dec 2022 - Aug 2023)  
-- Streamlined inventory management using Excel, ensuring stock accuracy and reconciliation.
-- Designed customer satisfaction surveys using Qualtrics to improve customer experience and feedback.
-- Maintained accurate product listings and merchandise pricing using NCR Counterpoint.
+### **📌 Sales Manager** | *Red Spirits and Wine, Nashville, TN (Dec 2022 - Present)*  
+- Managed **inventory and pricing** using **Excel & NCR Counterpoint**.  
+- Conducted **customer sentiment analysis** using **Qualtrics surveys**.  
+- Optimized sales strategies through **data-driven insights**.  
 
-### **Junior Java Web Developer Intern**  
-**IT Training Nepal** - Kathmandu, Nepal (Sep 2021 - Dec 2021)  
-- Built user-friendly web interfaces and dynamic pages using HTML, CSS, JSP, and AJAX.
-- Designed and developed responsive UI using DHTML, XHTML, and JavaScript.
-- Utilized the Spring Framework, JDBC, SQL, Java Servlets, and embedded HTTP servers like Tomcat.
+### **📌 Junior Java Web Developer Intern** | *IT Training Nepal (Sep 2021 - Dec 2021)*  
+- Developed **dynamic web pages** using **HTML, CSS, JavaScript, JSP**.  
+- Built **Spring Framework-based applications** using **Java Servlets & JDBC**.  
+- Improved **UI/UX with AJAX & DHTML** for interactive web applications.  
 
-## 📫 **Contact Me**
-- **Email:** [prakashdura20@gmail.com](mailto:prakashdura20@gmail.com)  
-- **Phone:** (615) 935-0007  
-- **LinkedIn:** [linkedin.com/in/prakashdura](https://www.linkedin.com/in/prakashdura/)  
-- **GitHub:** [github.com/PrakashDura](https://github.com/PrakashDura)  
+---
 
-## 📘 **Certifications**
-- Excel For Data Analytics
-- Pandas for Data Analytics
-- MySQL for Data Analytics
-- Tableau for Data Visualization
-- Microsoft Power BI Desktop
+## 🎓 **Certifications**
+✅ **Excel for Data Analytics**  
+✅ **Pandas for Data Analytics**  
+✅ **MySQL for Data Analytics**  
+✅ **Tableau for Data Visualization**  
+✅ **Microsoft Power BI Desktop**  
+
+---
+
+## 📫 **Connect With Me**
+📧 **Email:** [prakashdura20@gmail.com](mailto:prakashdura20@gmail.com)  
+📞 **Phone:** (615) 935-0007  
+🔗 **LinkedIn:** [linkedin.com/in/prakashdura](https://www.linkedin.com/in/prakashdura/)  
+📂 **Portfolio:** [prakashdura.github.io](https://prakashdura.github.io)  
+🐍 **GitHub:** [github.com/PrakashDura](https://github.com/PrakashDura)  
+
+
 
 ## 🎓 **About Me**
 As a data science enthusiast, I am always looking for new opportunities to learn and grow. I am particularly interested in machine learning, data analysis, and software development. My ultimate goal is to leverage my technical and analytical skills to create meaningful impact through data-driven solutions.
