@@ -7,8 +7,8 @@ Welcome to my **PORTFOLIO**! I am a passionate **Data Science** enthusiast pursu
 ## 📚 Education
 
 ### 🎓 Master of Science in Computer Science (Data Science Concentration)
-*Tennessee State University (2022 - 2025)*  
-**GPA:** 4.0  
+*Tennessee State University (2022 - 2025)*  **GPA:** 4.0  
+
 **Relevant Coursework:**
 - Machine Learning
 - Hybrid & Relational Databases
@@ -17,8 +17,8 @@ Welcome to my **PORTFOLIO**! I am a passionate **Data Science** enthusiast pursu
 - Advanced Algorithms & Data Analysis
 
 ### 🎓 Bachelor of Computer Science and Information Technology (CSIT)
-*Asian School of Management and Technology, Nepal (2016 - 2021)*  
-**GPA:** 3.5/4.0
+*Asian School of Management and Technology, Nepal (2016 - 2021)*   **GPA:** 3.5/4.0
+
 
 ---
 
@@ -41,8 +41,6 @@ Welcome to my **PORTFOLIO**! I am a passionate **Data Science** enthusiast pursu
 - Designed interactive visuals with slicers and filters for drill-down analysis.
 - Delivered actionable insights to support HR decision-making and workforce strategy.
 
-![HR Analytics Dashboard](dashboard.jpg)
-
 ### 📊 2. US Household Income Analysis | SQL Project
 **[GitHub Repository](https://github.com/PrakashDura/US_Household_Income_Project)**  
 - Analyzed **32,000 US household income records**.
@@ -59,8 +57,6 @@ Welcome to my **PORTFOLIO**! I am a passionate **Data Science** enthusiast pursu
 - Designed **a KPI dashboard to track agent performance & call center efficiency**.
 - Key metrics: **Resolution Rate, Average Call Duration, Speed of Answer, Satisfaction Score**.
 - **Technologies:** Tableau, SQL, Excel.
-
-![Call Center Dashboard](Final%20Dashboard.JPG)
 
 ### 🌎 5. World Happiness Report Data Analysis | Python
 **[GitHub Repository](https://github.com/PrakashDura/Data-Visualization-Projects/blob/main/World%20Happiness%20Report.ipynb)**  
@@ -92,11 +88,11 @@ Welcome to my **PORTFOLIO**! I am a passionate **Data Science** enthusiast pursu
 
 ## 🎓 Certifications
 
-- **Excel for Data Analytics**
-- **Pandas for Data Analytics**
-- **MySQL for Data Analytics**
-- **Tableau for Data Visualization**
-- **Microsoft Power BI Desktop**
+- Excel for Data Analytics
+- Pandas for Data Analytics
+- MySQL for Data Analytics
+- Tableau for Data Visualization
+- Microsoft Power BI Desktop
 
 ---
 
